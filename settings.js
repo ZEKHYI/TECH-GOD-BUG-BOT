@@ -1,32 +1,32 @@
-//base by Tech-God
+//base by Zingo Safa
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
+//YouTube: @zekhyiexe
+//Instagram: zekhyiexe
+//Telegram: t.me/zingosafa
+//GitHub: @zekhyi safa
+//WhatsApp: +2349072667605
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@zekhyiexe
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
-global.ytname = "YT: Tech-God"
-global.socialm = "GitHub: techgod143"
-global.location = "India, Up, Rampur"
+global.ownernomer = "2349072667605"
+global.ownername = "🐛Zingo Safa"
+global.ytname = "YT: Zekhyiexe"
+global.socialm = "GitHub: zekhyi"
+global.location = "Nigeria, Up, Yenagoa"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '2349072667605'  //creator number
+global.ownername = '🐛Zingo Safa' //owner name
+global.botname = 'Singo Safa ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.author = 'Zingo-Safa\n\nContact: +2349072667605'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Youtube Tech God."
+global.wm = "Youtube zekhyiexe."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
@@ -59,12 +59,12 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by Tech god or premium user only',
-    admin: 'This feature can be used by Tech god or admin only',
+    prem: 'This feature can be used by Zingo Safa or premium user only',
+    admin: 'This feature can be used by Zingo Safa or admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by Tech god or owner only',
+    owner: 'This feature can be used by Zingo Safa or owner only',
     group: 'This feature is only for groups',
-    private: 'This feature is only for private chats',
+    private: 'This feature is for all',
     wait: 'In process... ',    
     error: 'Error!',
 }
